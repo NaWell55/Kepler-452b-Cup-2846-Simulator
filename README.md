@@ -1,4 +1,8 @@
-# Kepler-452b-Cup-2846-Simulator (Alpha, only last 16)
-## The "kc26.py" file is the file edited with my own "aikc26.py" AI. I have my own mistakes, but they will be corrected
+# Kepler-452b-Cup-2846-Simulator (All Versions in folder)
 
-## Edit: "kc26final.py" is the final form, it is recommended to experience this version (ai and me mix)
+## "aikc26.py" is full ai
+--------------------------
+## "kc26.py" This was my first attempt, so there are some mistakes.
+--------------------------
+## The others are a mix of AI and me.
+## I wanted to include all the versions in case you'd like to check them out.
