@@ -314,7 +314,7 @@ print("""
 
 
 
-ri
+
 =================================================
 LADIES AND GENTLEMEN, HERE ARE THE QUARTERFINALS!
 ================================================
@@ -511,7 +511,7 @@ while True:
 
         print(f"""-AND LAST S-F MATCH-
 
-    {y1w1} vs. {y1w2}
+    {y2w1} vs. {y2w2}
 """)
 
         sim = input("Press Enter For Simulation...")
@@ -522,7 +522,7 @@ while True:
             time.sleep(3)
             print(f"""Simulation Complete! The Match Scores
         --------------------------------------
-        {y1w1} {rgolS} - {rgolS2} {y2w2}
+        {y2w1} {rgolS} - {rgolS2} {y2w2}
         --------------------------------------""")
             if rgolS > rgolS2:
                 print(f"{y2w1} Win!\n")
